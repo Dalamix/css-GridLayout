@@ -14,3 +14,20 @@ body{
     border-radius:6px;
     max-width:720px;
 }
+.item{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:700;
+    border-radius:4px;
+    color:#fff;
+}
+.c1{
+    background:#f88;
+}
+.c2{
+    background:#404a3b;
+}
+.c3{
+    background:#b576ae
+}
